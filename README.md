@@ -1,16 +1,12 @@
-# frontend
+# Projeto  Mobile 
 
-A new Flutter project.
+Mostra dados dos doares de sange fazeendo uma estatisica com os dados dos mesmo
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Mostra na interface mobile as estatísticas de doadores de sangue
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tecnologia usada flutter para se comunica com a API para retorna os dados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
